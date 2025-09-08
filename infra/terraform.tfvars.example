@@ -1,0 +1,5 @@
+project_id = "pvo-margin"
+region = "europe-west4"
+bq_location = "EU"
+firestore_location = "europe-west4"
+bq_dataset_id = "pvo_core_analytics"
